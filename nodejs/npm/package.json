@@ -12,7 +12,5 @@
   ],
   "author": "Alex Ferreira",
   "license": "MIT",
-  "dependencies": {
-    "cfonts": "^2.9.1"
-  }
+  "dependencies": {}
 }
